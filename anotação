@@ -1,8 +1,0 @@
-ALGEBRA RELACIONAL
-
-select = where
-projeção = select
-
-(produto cartesiano precisa de uma condição para que juntem a tabela apenas com dados consistentes)
-
-funcionario(funcionario CPF = secretario CPF(funcionario X secretario))))
